@@ -1,16 +1,16 @@
 # VCformer (IJCAI 2024)
 
-​	![Paper](https://img.shields.io/badge/Paper-IJCAI-blue)![Language](https://img.shields.io/badge/Language-Python-green) ![red](https://img.shields.io/badge/Framework-Pytorch-yellow)![red](https://img.shields.io/badge/Domain-Multivariate Time Series Forecasting-red)
+​	![Paper](https://img.shields.io/badge/Paper-IJCAI-blue)! [Language](https://img.shields.io/badge/Language-Python-green) ![red](https://img.shields.io/badge/Framework-Pytorch-yellow) ![red](https://img.shields.io/badge/Domain-Multivaraite_Time_Series_Forecasting-red)
 
 #### The repo is the official implementation for the paper: [VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting](https://arxiv.org/abs/2405.11470)  
 
 ## Overall Architecture
 
-![Architecture](D:\Dr.Yang\IJCAI2024\VCformer.png)
+![Architecture](https://github.com/CSyyn/VCformer/blob/main/image/VCformer.png)
 
 The pseudo-code of VCformer is as simple as the following:
 
-![pseudo-code](D:\Dr.Yang\IJCAI2024\pseudo-code.png)
+![pseudo-code](https://github.com/CSyyn/VCformer/blob/main/image/pseudo-code.png)
 
 
 
@@ -26,7 +26,7 @@ The pseudo-code of VCformer is as simple as the following:
 
 2.  Prepare data. You can obtain the well pre-processed datasets from [[Google Drive\]](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2?usp=sharing) or [[Baidu Drive\]](https://pan.baidu.com/s/1r3KhGd0Q9PJIUZdfEYoymg?pwd=i9iy), Then place the downloaded data in the folder`./dataset`. Here is a summary of used datasets.
 
-![datasets](D:\Dr.Yang\IJCAI2024\dataset_desc.png)
+![datasets](https://github.com/CSyyn/VCformer/blob/main/image/dataset_desc.png)
 
 3. Train and evaluate model. We provide the experiment scripts for all benchmarks under the folder `./scripts/`. You can reproduce the experiment results as the following examples:
 
