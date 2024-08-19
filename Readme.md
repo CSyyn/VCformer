@@ -2,8 +2,7 @@
 
 ​	![Paper](https://img.shields.io/badge/Paper-IJCAI-blue) ![Language](https://img.shields.io/badge/Language-Python-green) ![red](https://img.shields.io/badge/Framework-Pytorch-yellow) ![red](https://img.shields.io/badge/Domain-Multivaraite_Time_Series_Forecasting-red)
 
-#### The repo is the official implementation for the paper: [VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting](https://www.ijcai.org/proceedings/2024/590
-)  
+#### The repo is the official implementation for the paper: [VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting](https://www.ijcai.org/proceedings/2024/590)
 
 ## Overall Architecture
 
