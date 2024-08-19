@@ -41,13 +41,19 @@ The pseudo-code of VCformer is as simple as the following:
 If you want to cite our paper, use the citation below:
 
 ```latex
-@misc{yang2024vcformer,
-      title={VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting}, 
-      author={Yingnan Yang and Qingling Zhu and Jianyong Chen},
-      year={2024},
-      eprint={2405.11470},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{ijcai2024p590,
+  title     = {VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting},
+  author    = {Yang, Yingnan and Zhu, Qingling and Chen, Jianyong},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {5335--5343},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/590},
+  url       = {https://doi.org/10.24963/ijcai.2024/590},
 }
 ```
 
